@@ -2,7 +2,7 @@
 Python for Business Analytics HW2
 Name: Ricardo Martin
 ECO 32500 S'2024
-Reference via: 12 June 2024 - "Conditionals and Loops"
+Reference via Dropbox: 12 June 2024 - "Conditionals and Loops"
 '''
 
 # Task 1: Add returns to the for-loop (how much for retirement at 65)
